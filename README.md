@@ -1,4 +1,4 @@
-<h1>alguns prints sobre o projeto</h1>
+<h1 align="center">alguns prints sobre o projeto</h1>
 
 <p> um site feito para a minha namorada, e tambem um exercicio de interatividade</p>
 
