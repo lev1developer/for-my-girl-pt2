@@ -2,6 +2,7 @@
 
 <p align="center"> um site feito para a minha namorada, e tambem um exercicio de interatividade</p>
 
+<a>https://lev1developer.github.io/for-my-girl-pt2/</a>
 
 ![print1](https://github.com/user-attachments/assets/b4962dca-3ac9-4eba-91fd-1c6fedece750)
 
