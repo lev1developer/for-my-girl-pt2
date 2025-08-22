@@ -1,4 +1,6 @@
-<img width="3224" height="1813" alt="IMG_8446 JPEG" src="https://github.com/user-attachments/assets/fc573842-caaa-49df-a7c8-e21856b180ae" /><h1>alguns prints</h1>
+<h1>alguns prints sobre o projeto</h1>
+
+<p> um site feito para a minha namorada, e tambem um exercicio de interatividade</p>
 
 
 ![print1](https://github.com/user-attachments/assets/b4962dca-3ac9-4eba-91fd-1c6fedece750)
