@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CA:wght@100..400&display=swap');
+
+body {
+	background-color: rgba(255, 192, 203, 0.78);
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	font-family: 'Playwrite CA', cursive;
+}
+
+main a {
+	text-decoration: none;
+	background-color: white;
+	color: black;
+	padding: 20px 50px;
+	font-size: 20px;
+	border-radius: 20px;
+	box-shadow: 6px 8px 30px rgba(0, 0, 0, 0.2);
+	transition: all 3s ease;
+}
+
+main a:hover {
+	transform: scale(1.1);
+	box-shadow: 6px 12px 40px rgba(0, 0, 0, 0.3);
+	background-color: #ffe6f0;
+}
