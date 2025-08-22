@@ -4,7 +4,7 @@
   <p> um site feito para a minha namorada, e tambem um exercicio de interatividade</p>
 
   <p> o site em si aq em baixo</p>
-  <a>https://lev1developer.github.io/for-my-girl-pt2/</a>
+ https://lev1developer.github.io/for-my-girl-pt2/
 
 </div>
 
