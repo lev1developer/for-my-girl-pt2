@@ -4,7 +4,9 @@
   <p> um site feito para a minha namorada, costumo dizer que ela me inspira em tudo o que eu faço, e dessa vez nao foi diferente, fazer coisas relacionados a ela me faz bem </p>
   <p>(um exercicio de interatividade inspirado nela)</p>
 
-  <p> o site em si aq em baixo</p>
+###
+
+  <p> o site em si aqui em baixo</p>
  https://lev1developer.github.io/for-my-girl-pt2/
  
 </div>
