@@ -2,7 +2,7 @@
   <h1>um pouco sobre o projeto</h1>
 
   <p> um site feito para a minha namorada, costumo dizer que ela me inspira em tudo o que eu faço, e dessa vez nao foi diferente, fazer coisas relacionados a ela me faz bem </p>
-  <p>(um exercicio de interatividade inspirado nela)</p>
+  <p>(um exercicio de interatividade inspirado nela, nada responsivo com telas pequenas, perdão por isso)</p>
 
    <br>
 
