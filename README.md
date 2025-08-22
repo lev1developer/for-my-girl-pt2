@@ -1,8 +1,12 @@
-<h1 align="center">alguns prints sobre o projeto</h1>
+<div align="center"> 
+  <h1>alguns prints sobre o projeto</h1>
 
-<p align="center"> um site feito para a minha namorada, e tambem um exercicio de interatividade</p>
+  <p> um site feito para a minha namorada, e tambem um exercicio de interatividade</p>
 
-<a>https://lev1developer.github.io/for-my-girl-pt2/</a>
+  <p> o site em si aq em baixo</p>
+  <a>https://lev1developer.github.io/for-my-girl-pt2/</a>
+
+</div>
 
 ![print1](https://github.com/user-attachments/assets/b4962dca-3ac9-4eba-91fd-1c6fedece750)
 
